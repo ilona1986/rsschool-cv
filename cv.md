@@ -16,7 +16,7 @@
     <li>Last name: Fasolia;</li>
     <li>Nationality: Belarus;</li>
     <li>Location: Minsk, Belarus;</li>
-    <li>Marital status: single;</li>
+    <li>Marital status: engaged;</li>
     <li>Date of birth: 6th October 1986;</li>
     <li>Email: Ilona_b9ka@mail.ru;</li>
   </ul>
