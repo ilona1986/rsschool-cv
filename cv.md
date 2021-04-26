@@ -56,7 +56,7 @@ Start a career as a Junior Frontend Developer in company and after 5 years grow 
   <!-- Языки -->
   <ul>
     <li>Russian native</li>
-    <li>English intermediate</li>
+    <li>English upper-intermediate</li>
   </ul>
 </p>
 </div>
