@@ -41,9 +41,10 @@ Start a career as a Junior Frontend Developer in company and after 5 years grow 
 </p>
 <p>
   <strong>My code:</strong>
-  <a href="https://github.com/Biven160690/Dreamcar/blob/main/components/changePassword.vue">component</a>
-  <a href="https://github.com/Biven160690/Dreamcar/blob/main/components/userSettings.vue">component</a>
-  <a href="https://github.com/Biven160690/Dreamcar/blob/main/components/userSettings.vue">page</a>
+  <a href="https://github.com/Biven160690/Dreamcar/blob/main/components/changePassword.vue">component,</a>
+  <a href="https://github.com/Biven160690/Dreamcar/blob/main/components/userSettings.vue">component,</a>
+  <a href="https://github.com/Biven160690/Dreamcar/blob/main/components/userSettings.vue">page,</a>
+  <a href="https://github.com/ilona1986/React">acquaintance with React</a>
 </p>
 <p>
 <strong>Education:</strong>
@@ -70,8 +71,7 @@ Start a career as a Junior Frontend Developer in company and after 5 years grow 
      padding: 5px;
   }   
   . strong {
-    background: grey;
-    padding: 7px;
+     padding: 7px;
   } 
   </style>
 </html>
