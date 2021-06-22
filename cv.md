@@ -8,6 +8,7 @@
    <div class="content">
    <Img src="ilona.jpg"  Width="auto" Height="350">
 <p>
+
   <strong> Personal Information: </strong> 
   <!-- Персональные данные -->
 
@@ -29,7 +30,7 @@ Start a career as a Junior Frontend Developer in company and after 5 years grow 
   <strong>Skills:</strong>
    <!-- Скилы -->
   <ul>
-    <li>Knowledge of HTML, CSS, JavaScript, jQuery, Vue.js, Nuxt.js, Docker, Git, Heroku, Figma, VS code, npm, cli;</li>
+    <li>Good knowledge of HTML5, CSS3, flexbox, JavaScript, Vue.js, Nuxt.js, Docker, Git, cloud-service Heroku, Figma , UI/UX design, VS code, npm, cli, yarn ;</li>
     <li>Ability to work in a team about 10,5 years;</li>
     <li>Strong communication skills;</li>
   </ul>
@@ -56,8 +57,8 @@ Start a career as a Junior Frontend Developer in company and after 5 years grow 
 <strong>Languages:</strong>
   <!-- Языки -->
   <ul>
-    <li>Russian native</li>
-    <li>English upper-intermediate</li>
+    <li>Russian native;</li>
+    <li>English intermediate;</li>
   </ul>
 </p>
 </div>
