@@ -25,12 +25,12 @@
 <p>
   <strong>Summary:</strong>
   <!-- Цель -->
-Start a career as a Junior Frontend Developer in company and after 5 years grow to a Senior .</p>
+  I have a burning heart to frontend development.The flame of which will inspire to reach new heights in development.</p>
 <p>
   <strong>Skills:</strong>
    <!-- Скилы -->
   <ul>
-    <li>Good knowledge of HTML5, CSS3, flexbox, JavaScript, Vue.js, Nuxt.js, Docker, Git, cloud-service Heroku, Figma , UI/UX design, VS code, npm, cli, yarn ;</li>
+    <li>Good knowledge of HTML5, CSS3, flexbox, JavaScript, Vue.js, Nuxt.js, Docker, Git, cloud-service Heroku, Figma , UI/UX design, VS code, npm, cli, yarn, DRY;</li>
     <li>Ability to work in a team about 10,5 years;</li>
     <li>Strong communication skills;</li>
   </ul>
@@ -44,8 +44,10 @@ Start a career as a Junior Frontend Developer in company and after 5 years grow 
   <strong>My code:</strong>
   <a href="https://github.com/Biven160690/Dreamcar/blob/main/components/changePassword.vue">component,</a>
   <a href="https://github.com/Biven160690/Dreamcar/blob/main/components/userSettings.vue">component,</a>
-  <a href="https://github.com/Biven160690/Dreamcar/blob/main/components/userSettings.vue">page,</a>
-  <a href="https://github.com/ilona1986/React">acquaintance with React</a>
+  <a href="https://github.com/Biven160690/Dreamcar/blob/main/pages/editUserInformation.vue">page,</a>
+  <a href="https://github.com/ilona1986/React">acquaintance with React</a></br>
+  <strong>My git:</strong>
+  <a href="https://github.com/ilona1986"> my profile</a>
 </p>
 <p>
 <strong>Education:</strong>
