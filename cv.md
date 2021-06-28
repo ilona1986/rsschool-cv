@@ -30,7 +30,7 @@
   <strong>Skills:</strong>
    <!-- Скилы -->
   <ul>
-    <li>Good knowledge of HTML5, CSS3, flexbox, JavaScript, Vue.js, Nuxt.js, Docker, Git, cloud-service Heroku, Figma , UI/UX design, VS code, npm, cli, yarn, DRY;</li>
+    <li>Good knowledge of HTML5, CSS3, flexbox, JavaScript, Vue.js, Nuxt.js, Docker, Git, cloud-service Heroku, Figma, UI/UX design, VS code, npm, cli, yarn, DRY;</li>
     <li>Ability to work in a team about 10,5 years;</li>
     <li>Strong communication skills;</li>
   </ul>
@@ -45,7 +45,9 @@
   <a href="https://github.com/Biven160690/Dreamcar/blob/main/components/changePassword.vue">component,</a>
   <a href="https://github.com/Biven160690/Dreamcar/blob/main/components/userSettings.vue">component,</a>
   <a href="https://github.com/Biven160690/Dreamcar/blob/main/pages/editUserInformation.vue">page,</a>
-  <a href="https://github.com/ilona1986/React">acquaintance with React</a></br>
+  <a href="https://github.com/ilona1986/React">acquaintance with React</a>
+</p>
+<p>
   <strong>My git:</strong>
   <a href="https://github.com/ilona1986"> my profile</a>
 </p>
