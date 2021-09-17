@@ -83,6 +83,7 @@
     <li>English intermediate;</li>
   </ul>
 </div>
+</div>
 </body>
 
  <style>
