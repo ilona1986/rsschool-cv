@@ -5,7 +5,8 @@
  </head>
  <body>
 
- <div class="content">
+<div class="content">
+
   <div>
   <Img src="ilona.jpg"  Width="auto" Height="350px">
   </div>
@@ -44,14 +45,12 @@
 <div> 
 <a href="https://github.com/Biven160690/Dreamcar.git">Project (Nuxt.js/Vue.js),</a>
 <a href="https://github.com/ilona1986/Carousel">Carousel,</a>
-<a href="https://github.com/ilona1986/movieSearch">MovieSearch,<a>
+<a href="https://github.com/ilona1986/movieSearch">MovieSearch,</a>
 <a href="https://github.com/ilona1986/grid_template">Project,</a>
 <a href="https://github.com/ilona1986/kinoZal">Project (Bootstrap),</a>
 <a href="https://github.com/ilona1986/React">React (toDo list),</a>
-<a href="https://github.com/ilona1986/Template-Driven-Forms-Angular-">
-TemplateDrivenForms (Angular),</a>
-<a href="https://github.com/ilona1986/App-Routing-Advanced-Angular-">
-RoutingAdvanced (Angular).</a>
+<a href="https://github.com/ilona1986/Template-Driven-Forms-Angular-">TemplateDrivenForms (Angular),</a>
+<a href="https://github.com/ilona1986/App-Routing-Advanced-Angular-">RoutingAdvanced (Angular).</a>
 </div>
 
   <h2>My code:</h2>
@@ -62,8 +61,8 @@ RoutingAdvanced (Angular).</a>
   <a href="https://github.com/Biven160690/Dreamcar/blob/main/components/changePassword.vue">component,</a>
   <a href="https://github.com/Biven160690/Dreamcar/blob/main/components/userSettings.vue">component,</a>
   <a href="https://github.com/Biven160690/Dreamcar/blob/main/pages/editUserInformation.vue">page,</a>
-  <a href="https://github.com/ilona1986/movieSearch/blob/master/assets/js/movies.js">movies,<a>
-  <a href="https://github.com/ilona1986/movieSearch/blob/master/assets/js/dom.js">DOM,<a>
+  <a href="https://github.com/ilona1986/movieSearch/blob/master/assets/js/movies.js">movies,</a>
+  <a href="https://github.com/ilona1986/movieSearch/blob/master/assets/js/dom.js">DOM,</a>
   <a href="https://github.com/ilona1986/App-Routing-Advanced-Angular-/blob/master/src/app/phrases/phrases-list/phrases-list.component.ts">phrasesList (TS),</a>
   <a href="https://github.com/ilona1986/App-Routing-Advanced-Angular-/blob/master/src/app/phrases/phrase-details/phrase-details.component.ts">phraseDetails (TS),
   </a>
