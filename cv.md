@@ -33,7 +33,6 @@
 
 <div>  
   <ul>
-<<<<<<< HEAD
     <li>Languages: HTML5, CSS3, JavaScript ES6+, TypeScript;</li>
     <li>Frameworks: Vue.js, Nuxt.js, Angular 12, Bootstrap;</li>
     <li>Cloud-service: Heroku, Firebase;</li>
@@ -42,11 +41,9 @@
     <li>IDE or editor: Webstorm, VS code;</li>
     <li>Bandler or task-runner: Webpack5, Gulp;</li>
     <li>SVN: Docker, Git;</li>
-    <li>Understanding of: UI/UX design, Ceo basics;</li>
+    <li>Understanding of: UI/UX design, SEO basics;</li>
     <li>Preprocessor: SCSS;</li>
-=======
-    <li>Good knowledge of HTML5, CSS3, JavaScript, TypeScript, Vue.js, Nuxt.js, Docker, Git, cloud-service Heroku, Figma, Photopea, UI/UX design, Ceo, VS code, Webstorm, npm, cli, yarn, Gulp, etc.;</li>
->>>>>>> 3c7602318241b9b7b03f2a4455e3557ab2e5468f
+    <li>Technical tools: Node js, MongoDB, tolken aut, karma.</li>
     <li>Ability to work in a team about 10,5 years;</li>
     <li>Strong communication skills;</li>
   </ul>
@@ -59,7 +56,6 @@
 <a href="https://github.com/ilona1986/Carousel">Carousel,</a>
 <a href="https://github.com/ilona1986/movieSearch">MovieSearch,</a>
 <a href="https://github.com/ilona1986/grid_template">Project,</a>
-<<<<<<< HEAD
 <a href="https://github.com/ilona1986/kinoZal">Project (Bootstrap).</a>
 <a href="https://github.com/ilona1986/movieSearch">movieSearch,</a>
 <a href="https://github.com/ilona1986/Template-Driven-Forms-Angular-">Template-Driven-Forms(Angular12),</a>
@@ -69,12 +65,6 @@
 <a href="https://github.com/ilona1986/app-requests-Angular-">requests,</a>
 <a href="https://github.com/ilona1986/CRUD-application">CRUD-application,</a>
 <a href="https://github.com/ilona1986/Tour-of-Heroes">Tour-of-Heroes.</a>
-=======
-<a href="https://github.com/ilona1986/kinoZal">Project (Bootstrap),</a>
-<a href="https://github.com/ilona1986/React">React (toDo list),</a>
-<a href="https://github.com/ilona1986/Template-Driven-Forms-Angular-">TemplateDrivenForms (Angular),</a>
-<a href="https://github.com/ilona1986/App-Routing-Advanced-Angular-">RoutingAdvanced (Angular).</a>
->>>>>>> 3c7602318241b9b7b03f2a4455e3557ab2e5468f
 </div>
 
   <h2>My code:</h2>
@@ -105,7 +95,7 @@
 <div> 
   <ul>
     <li>November - June 2021 SkillUp courses <a href="https://drive.google.com/file/d/1LNrq5cZ2U__jYlafuprkb5qlW4WN0fy_/view?usp=sharing">"Frontend"</a>;</li>
-    <li>February - January 2021 IBA Institute courses <a href="https://drive.google.com/file/d/1ZAkSsWkHNUrzAUS9Vit9OGA4PYeTJTJ6/view?usp=sharing"> "Programming on JavaScript"</a>;<li>
+    <li>February - January 2021 IBA Institute courses <a href="https://drive.google.com/file/d/1ZAkSsWkHNUrzAUS9Vit9OGA4PYeTJTJ6/view?usp=sharing"> "Programming on JavaScript"</a>;</li>
     <li>August 2009 - September 2004  BelSUT - MTP;</li>
   </ul>
 </div>
