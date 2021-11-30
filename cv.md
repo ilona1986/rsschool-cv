@@ -18,7 +18,6 @@
     <li>Last name: Fasolia;</li>
     <li>Nationality: Belarus;</li>
     <li>Location: Minsk, Belarus;</li>
-    <li>Marital status: engaged;</li>
     <li>Date of birth: 6th October 1986;</li>
     <li>Email: Ilona_b9ka@mail.ru;</li>
   </ul>
@@ -33,7 +32,16 @@
 
 <div>  
   <ul>
-    <li>Good knowledge of HTML5, CSS3, JavaScript, Vue.js, Nuxt.js, Docker, Git, cloud-service Heroku, Figma, Photopea, UI/UX design, Ceo, VS code, Webstorm, npm, cli, yarn,Gulp, etc.;</li>
+    <li>Languages: HTML5, CSS3, JavaScript ES6+, TypeScript;</li>
+    <li>Frameworks: Vue.js, Nuxt.js, Angular 12, Bootstrap;</li>
+    <li>Cloud-service: Heroku, Firebase;</li>
+    <li>Package managers: npm, cli, yarn;</li>
+    <li>Graphics editor: Photopea, Adobe XD;</li> 
+    <li>IDE or editor: Webstorm, VS code;</li>
+    <li>Bandler or task-runner: Webpack5, Gulp;</li>
+    <li>SVN: Docker, Git;</li>
+    <li>Understanding of: UI/UX design, Ceo basics;</li>
+    <li>Preprocessor: SCSS;</li>
     <li>Ability to work in a team about 10,5 years;</li>
     <li>Strong communication skills;</li>
   </ul>
@@ -46,6 +54,14 @@
 <a href="https://github.com/ilona1986/Carousel">Carousel,</a>
 <a href="https://github.com/ilona1986/grid_template">Project,</a>
 <a href="https://github.com/ilona1986/kinoZal">Project (Bootstrap).</a>
+<a href="https://github.com/ilona1986/movieSearch">movieSearch,</a>
+<a href="https://github.com/ilona1986/Template-Driven-Forms-Angular-">Template-Driven-Forms(Angular12),</a>
+<a href="https://github.com/ilona1986/App-Routing-Advanced-Angular-">Routing-Advanced(Angular12),</a>
+<a href="https://github.com/ilona1986/Reactive-Form-Angular-">Reactive-Form(Angular12),</a>
+<a href="https://github.com/ilona1986/Wiki-Angular-">wikiSearch,</a>
+<a href="https://github.com/ilona1986/app-requests-Angular-">requests,</a>
+<a href="https://github.com/ilona1986/CRUD-application">CRUD-application,</a>
+<a href="https://github.com/ilona1986/Tour-of-Heroes">Tour-of-Heroes.</a>
 </div>
 
   <h2>My code:</h2>
@@ -69,9 +85,9 @@
 
 <div> 
   <ul>
-    <li>2004-2009 Belarusian State University of Transport;</li>
-    <li>2021 IBA Institute courses "Programming on JavaScript";</li>
-    <li>2021 SkillUp courses "Frontend";</li>
+    <li>November - June 2021 SkillUp courses <a href="https://drive.google.com/file/d/1LNrq5cZ2U__jYlafuprkb5qlW4WN0fy_/view?usp=sharing">"Frontend"</a>;</li>
+    <li>February - January 2021 IBA Institute courses <a href="https://drive.google.com/file/d/1ZAkSsWkHNUrzAUS9Vit9OGA4PYeTJTJ6/view?usp=sharing"> "Programming on JavaScript"</a>;<li>
+    <li>August 2009 - September 2004  BelSUT - MTP;</li>
   </ul>
 </div>
 
