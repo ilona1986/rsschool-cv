@@ -43,7 +43,7 @@
     <li>SVN: Docker, Git;</li>
     <li>Understanding of: UI/UX design, SEO basics;</li>
     <li>Preprocessor: SCSS;</li>
-    <li>Technical tools: Node js, MongoDB, tolken aut, karma.</li>
+    <li>Technical tools: Node js, MongoDB, tolken auth, karma.</li>
     <li>Ability to work in a team about 10,5 years;</li>
     <li>Strong communication skills;</li>
   </ul>
