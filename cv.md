@@ -13,7 +13,7 @@
   
 <h1> Personal Information: </h1>
 
-<p>
+<div>
   <ul>
     <li>First name: Ilona;</li>
     <li>Last name: Fasolia;</li>
@@ -22,7 +22,7 @@
     <li>Date of birth: 6th October 1986;</li>
     <li>Email: Ilona_b9ka@mail.ru;</li>
   </ul>
-</p>
+</div>
 
   <h2>Summary:</h2>
 
@@ -50,7 +50,7 @@
 </div>
 
 <h2>Experience:</h2>
-
+<div>Present Time - January 2022  Front-End Angular Developer BelHard Corporation</div>
 <div> 
 <a href="https://github.com/Biven160690/Dreamcar.git">Project (Nuxt.js/Vue.js),</a>
 <a href="https://github.com/ilona1986/Carousel">Carousel,</a>
@@ -64,7 +64,11 @@
 <a href="https://github.com/ilona1986/Wiki-Angular-">wikiSearch,</a>
 <a href="https://github.com/ilona1986/app-requests-Angular-">requests,</a>
 <a href="https://github.com/ilona1986/CRUD-application">CRUD-application,</a>
-<a href="https://github.com/ilona1986/Tour-of-Heroes">Tour-of-Heroes.</a>
+<a href="https://github.com/ilona1986/Tour-of-Heroes">Tour-of-Heroes,</a>
+<a href="https://github.com/ilona1986/Films">Films,</a>
+<a href="https://github.com/ilona1986/Organizer">Organizer,</a>
+<a href="https://github.com/ilona1986/RxJS">RxJS,</a>
+<a href="https://github.com/ilona1986/RxJS-quick-course-">RxJS-quick-course.</a>
 </div>
 
   <h2>My code:</h2>
@@ -93,7 +97,8 @@
 <h2>Education:</h2>
 
 <div> 
-  <ul>
+  <ul> 
+    <li>August 2022 - December 2021 English Bootcamp "English for IT specialists"</li>
     <li>November - June 2021 SkillUp courses <a href="https://drive.google.com/file/d/1LNrq5cZ2U__jYlafuprkb5qlW4WN0fy_/view?usp=sharing">"Frontend"</a>;</li>
     <li>February - January 2021 IBA Institute courses <a href="https://drive.google.com/file/d/1ZAkSsWkHNUrzAUS9Vit9OGA4PYeTJTJ6/view?usp=sharing"> "Programming on JavaScript"</a>;</li>
     <li>August 2009 - September 2004  BelSUT - MTP;</li>
@@ -111,17 +116,4 @@
 </div>
 </body>
 
-<style>
-  .content {
-    font-weight: auto ;
-    display: flex - column ;
-    text-align: left; 
-    margin-top: 1rem;
-    padding: 5px;
-  } 
-
-  .h2 {
-    padding: 7px;
-  } 
-</style>
 </html>
